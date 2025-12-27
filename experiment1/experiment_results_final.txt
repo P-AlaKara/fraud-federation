@@ -1,0 +1,11 @@
+Bank A Model on Bank A Data:     100.00%
+Bank A Model on Bank B Data:     42.30%
+Bank A Model on Global Dataset:  35.20%
+----------------------------------------
+Bank B Model on Bank A Data:     42.60%
+Bank B Model on Bank B Data:     100.00%
+Bank B Model on Global Dataset:  46.40%
+----------------------------------------
+Global Model on Bank A Data:     71.90%
+Global Model on Bank B Data:     71.60%
+Global Model on Global Dataset:  72.60%
