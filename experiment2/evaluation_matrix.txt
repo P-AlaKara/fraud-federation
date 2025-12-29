@@ -1,0 +1,15 @@
+--- FEDERATED LEARNING EVALUATION MATRIX ---
+| Model Name      | Dataset Name         | Accuracy  | Precision | Recall |
+|-----------------|----------------------|-----------|-----------|--------|
+| Bank A Model    | Bank A Data (Clean)  | Acc: 0.9486 | Prec: 0.9661 | Rec: 0.9299 |
+| Bank A Model    | Bank B Data (Renamed) | Acc: 0.9479 | Prec: 0.9674 | Rec: 0.9266 |
+| Bank A Model    | Bank C Data (Cents)  | Acc: 0.9388 | Prec: 0.9586 | Rec: 0.9171 |
+| Bank B Model    | Bank A Data (Clean)  | Acc: 0.8978 | Prec: 0.8639 | Rec: 0.9449 |
+| Bank B Model    | Bank B Data (Renamed) | Acc: 0.9005 | Prec: 0.8649 | Rec: 0.9480 |
+| Bank B Model    | Bank C Data (Cents)  | Acc: 0.8993 | Prec: 0.8631 | Rec: 0.9488 |
+| Bank C Model    | Bank A Data (Clean)  | Acc: 0.8728 | Prec: 0.9419 | Rec: 0.7951 |
+| Bank C Model    | Bank B Data (Renamed) | Acc: 0.8749 | Prec: 0.9520 | Rec: 0.7882 |
+| Bank C Model    | Bank C Data (Cents)  | Acc: 0.8698 | Prec: 0.9411 | Rec: 0.7885 |
+| GLOBAL MODEL    | Bank A Data (Clean)  | Acc: 0.8996 | Prec: 0.8599 | Rec: 0.9554 |
+| GLOBAL MODEL    | Bank B Data (Renamed) | Acc: 0.9005 | Prec: 0.8601 | Rec: 0.9553 |
+| GLOBAL MODEL    | Bank C Data (Cents)  | Acc: 0.8977 | Prec: 0.8537 | Rec: 0.9598 |
